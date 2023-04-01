@@ -1,0 +1,26 @@
+.singleCard{
+    height: 20rem;
+    border-radius: 40px;
+    padding: 1rem;
+
+    .defaultSingleCard{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        h2{
+            text-align: center;
+        }
+
+        img{
+            margin: 3rem auto;
+            width: 20rem;
+        }
+    }
+
+    .singleCard__data{
+        h2{
+            text-align: center;
+        }
+    }
+}

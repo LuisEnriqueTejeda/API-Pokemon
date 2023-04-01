@@ -1,0 +1,14 @@
+.pokeApp{
+    padding: 2rem 3rem;
+    display: flex;
+    flex-direction: row;
+
+    .CardSolo{
+        flex: 1 1 30%;
+    }
+
+    .CardVarios{
+        flex: 1 1 70%;  
+        margin: 0 1rem;
+    }
+}

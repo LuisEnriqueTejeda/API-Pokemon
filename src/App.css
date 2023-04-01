@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  /* height: 100%; */
+}
+
+
+body{
+  background: rgb(131, 165, 196);
+  background: linear-gradient(
+    -45deg,
+    rgba(131, 165, 196, 1) 47%,
+    rgba(246, 248, 252, 1) 100%
+  );
+  background-repeat: no-repeat;
+  /* height: 100%; */
+}
